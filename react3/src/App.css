@@ -25,3 +25,8 @@
   width: 200px;
   height: 100px;
 }
+
+div{
+  display: flex;
+  flex-direction: column;
+}

@@ -70,7 +70,7 @@ class Alunos extends React.Component {
   render() {
     return (
       <div>
-        <button onClick={this.clicar}>AODsifhsn</button>
+        {/* <button onClick={() => this.clicar}>AODsifhsn</button> */}
       </div>
     )
   }

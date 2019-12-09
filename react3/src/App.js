@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import Alunos from './alunos'
+import Props from './Props'
 import './App.css';
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-      <Alunos/>
+      {/* <Alunos/> */}
+      <Props/>
       </header>
     </div>
   );
